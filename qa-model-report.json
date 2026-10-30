@@ -1,0 +1,138 @@
+{
+  "passed": true,
+  "checks": 6166,
+  "normalRoutes": 9,
+  "successfulPasses": 27,
+  "totalStars": 27,
+  "oracleCases": 5427,
+  "serializedFlights": 108,
+  "allTargetsReachable": true,
+  "routes": [
+    {
+      "level": 0,
+      "name": "A Letter for the Sun",
+      "targets": [
+        0.2,
+        0.78,
+        0.48
+      ],
+      "validFrames": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "level": 1,
+      "name": "The Long Arcade",
+      "targets": [
+        0.88,
+        0.15,
+        0.63
+      ],
+      "validFrames": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "level": 2,
+      "name": "Apricot Avenue",
+      "targets": [
+        0.35,
+        0.82,
+        0.1
+      ],
+      "validFrames": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "level": 3,
+      "name": "The Petal Embassy",
+      "targets": [
+        0.73,
+        0.28,
+        0.54
+      ],
+      "validFrames": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "level": 4,
+      "name": "The Moon Garden",
+      "targets": [
+        0.12,
+        0.9,
+        0.39
+      ],
+      "validFrames": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "level": 5,
+      "name": "The Glasshouse Post",
+      "targets": [
+        0.62,
+        0.18,
+        0.82
+      ],
+      "validFrames": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "level": 6,
+      "name": "The Double Colonnade",
+      "targets": [
+        0.25,
+        0.77,
+        0.46
+      ],
+      "validFrames": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "level": 7,
+      "name": "Two Windows, One Wish",
+      "targets": [
+        0.87,
+        0.34,
+        0.13
+      ],
+      "validFrames": [
+        2,
+        2,
+        2
+      ]
+    },
+    {
+      "level": 8,
+      "name": "The Last Little Letter",
+      "targets": [
+        0.55,
+        0.21,
+        0.8
+      ],
+      "validFrames": [
+        2,
+        2,
+        2
+      ]
+    }
+  ]
+}
