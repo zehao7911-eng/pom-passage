@@ -5,7 +5,7 @@ html=(root/'index-source.html').read_text(encoding='utf-8-sig')
 html=html.replace('<link rel="stylesheet" href="style.css">','<style>'+(root/'style.css').read_text(encoding='utf-8-sig')+'</style>')
 html=re.sub(r'<script src="([^"]+)"></script>',lambda m:'<script>'+(root/m[1]).read_text(encoding='utf-8-sig').replace('</script','<\\/script')+'</script>',html)
 for n in ['index.html','standalone.html']:(root/n).write_text(html,encoding='utf-8')
-files=sorted(p for p in root.rglob('*') if p.is_file() and p.name!='SHA256.json' and '__pycache__' not in p.parts)
+files=sorted(p for p in root.rglob('*') if p.is_file() and p.name!='SHA256.json' and '__pycache__' not in p.parts and 'source-v2' not in p.parts)
 (root/'SHA256.json').write_text(json.dumps({p.relative_to(root).as_posix():hashlib.sha256(p.read_bytes()).hexdigest() for p in files},indent=2),encoding='utf-8')
 out=root.parent/'POM-PASSAGE.zip'
 with zipfile.ZipFile(out,'w',zipfile.ZIP_DEFLATED,compresslevel=9) as z:

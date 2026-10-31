@@ -1,0 +1,119 @@
+{
+  "assets": {
+    "evening-city-v2.png": {
+      "size": [
+        1086,
+        1448
+      ],
+      "runtimeBytes": 254516,
+      "masterSha256": "4c55f3900408f28772c32b7af9889c8b5dab54f57797e5374f47ce65fcfc14f0"
+    },
+    "evening-wide-v2.png": {
+      "size": [
+        1774,
+        887
+      ],
+      "runtimeBytes": 341582,
+      "masterSha256": "abf9a7bf13aeb902fa7492620ad8ba84b807a7b8734c8e75d4c554a3f612b68f"
+    },
+    "petal-city-v2.png": {
+      "size": [
+        1086,
+        1448
+      ],
+      "runtimeBytes": 293432,
+      "masterSha256": "297523eed420ae11296c54e2554ad594ad13983f328c265f29a65edfe7fe4c5a"
+    },
+    "petal-wide-v2.png": {
+      "size": [
+        1774,
+        887
+      ],
+      "runtimeBytes": 311750,
+      "masterSha256": "87dd698b0e7f6937e5f10471b69e916fdf238304dfd3f16ef7514ce2b9eab55c"
+    },
+    "pom-parts-v2.png": {
+      "size": [
+        1536,
+        1024
+      ],
+      "runtimeBytes": 112708,
+      "masterSha256": "869748d35385a9b9b738ebfbdab3cda39af15093abbf231c4274baf10f387bbe"
+    },
+    "portal-facade-v2.png": {
+      "size": [
+        1122,
+        1402
+      ],
+      "runtimeBytes": 220188,
+      "masterSha256": "f9912d95f6c544d8db1a54be032c0e43bff9e0940c0331d34d454ad56d5adc85"
+    },
+    "sun-city-v2.png": {
+      "size": [
+        1086,
+        1448
+      ],
+      "runtimeBytes": 237940,
+      "masterSha256": "32e74e41f05ff29a523171a79fb0aa39be3c88368df2c32e7e51571718b60b9c"
+    },
+    "sun-wide-v2.png": {
+      "size": [
+        1774,
+        887
+      ],
+      "runtimeBytes": 341572,
+      "masterSha256": "131c8c25b1106436a469adffee51c48175b9f5b8f0c1db10c74600d5298e964e"
+    }
+  },
+  "atlas": [
+    [
+      32,
+      124,
+      373,
+      355
+    ],
+    [
+      468,
+      252,
+      278,
+      114
+    ],
+    [
+      829,
+      268,
+      288,
+      111
+    ],
+    [
+      1198,
+      250,
+      290,
+      132
+    ],
+    [
+      61,
+      591,
+      320,
+      230
+    ],
+    [
+      479,
+      585,
+      232,
+      211
+    ],
+    [
+      856,
+      585,
+      229,
+      212
+    ],
+    [
+      1168,
+      651,
+      341,
+      138
+    ]
+  ],
+  "runtimeBytes": 2113864
+}

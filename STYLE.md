@@ -1,3 +1,9 @@
+# Illustrated paper city — image art revision
+
+Eight built-in image_gen assets now provide three portrait districts, three landscape compositions, a separate portal facade and a transparent courier parts atlas. Original PNG masters remain unchanged; WebP compression is technical preparation only. Runtime alpha is preserved exactly. See ART-PROMPTS-V2.json and image-preparation-report.json.
+
+The rendered aperture is cut through the generated facade using the same geometry as the fit model. The courier texture clips to its actual ellipse. Facial features are separate sprites with stable proportions; hands and boots tuck during passage. The scene never moves underneath the playable aperture. Water glints, ambient motes and delivery confetti add restrained movement.
+
 # A postal city in flat colour
 
 The original shared visual grammar is architectural illustration: large hard-edged colour planes, no heavy black outline, limited warm stone and cool sky colours, restrained seams and deliberate repeated columns. Texture density comes from structured arches, ledges, shutters, paving and folded-paper facets rather than random noise.
